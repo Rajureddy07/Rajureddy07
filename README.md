@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rajureddy07
+- 👋 Hi, I’m Rajasekhar
 - 👀 I’m interested to build new ideas 
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning data science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 8431542546
 - 😄 Pronouns: ...
